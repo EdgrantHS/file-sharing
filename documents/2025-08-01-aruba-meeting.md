@@ -55,10 +55,6 @@
 - All relevant team members are to **join the designated WhatsApp group** for communication and sharing updates.
 - New students are to focus on **literature study** and defining problem statements for their seminars.
 
-### Conclusion
-
-The meeting established a clear path for transferring WiFi crawling knowledge from Fajri to the new students, focusing on replicating the existing setup and then exploring expanded data collection and advanced analytics for energy saving and network optimization. The importance of detailed documentation and effective team collaboration was highlighted for future project development and academic pursuits. Fajri's initial work on prediction provides a strong foundation, and future efforts will aim for actual control mechanisms and broader use cases. The team is encouraged to work collaboratively, sharing challenges and discoveries to foster mutual learning and project advancement.
-
 ---
 
 ## Meeting Summary
