@@ -43,7 +43,7 @@
 
 ### Key Discussions & Updates
 
-- Covered in the [meeting summary](#2025-08-01-dr-gdes-aruba-meeting-summary)
+- Covered in the [meeting summary](#meeting-summary)
 
 ### Action Items
 
