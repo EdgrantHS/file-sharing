@@ -1,6 +1,7 @@
 ## Aruba Meeting with Dr. Gde
 
-> Date: 2025-08-01
+> Date: 2025-08-01  
+> Recording: [YouTube Link](https://www.youtube.com/playlist?list=PLNxlEcQdkOt8feKT-RHVc54WNMxUcuB4M )
 
 ## Table of Contents
 
