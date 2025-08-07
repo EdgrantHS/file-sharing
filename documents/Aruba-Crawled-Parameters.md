@@ -33,7 +33,6 @@ The following table provides a comprehensive list of all data points collected.
 | Category | Parameters |
 | :--- | :--- |
 | **AP Data** | |
-| AP Active Summary | AP Name, IP Address |
 | AP Radio Information | Radio Band, Noise Floor, Utilization, Interference, rx\_time, tx\_time |
 | AP Radio Stats | AP Name, MAC Address, Radio Band, Tx Bytes Transmitted, Rx Total Bytes Recvd, tx\_throughput, rx\_throughput, total\_throughput |
 | AP Active Details | AP Name, Radio Band, Channel, EIRP, MaxEIRP, Clients, Active Clients, IP Address |
@@ -366,3 +365,4 @@ Performance metrics for the crawling process for approximately 1500 APs.
   * **PoE (3 switches)**: 50 seconds
 
 The UI controller is equipped with 130GB of RAM and 20 CPUs.
+
